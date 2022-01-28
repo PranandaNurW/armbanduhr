@@ -1,0 +1,9 @@
+#shop-watches{
+.container .row .shop-item .box {
+    transition: box-shadow .3s;
+}
+
+.container .row .shop-item .box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+}
